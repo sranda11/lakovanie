@@ -1,0 +1,20 @@
+LAKOVANIE – GitHub Pages a offline appka
+
+1. Rozbaľ ZIP. Nahraj obsah priečinka Lakovanie do koreňa svojho GitHub repozitára: index.html musí byť priamo v koreni, spolu s ostatnými súbormi a priečinkom icons.
+2. V repozitári otvor Settings → Pages, zvoľ Deploy from a branch, vetvu main a / (root). Ulož.
+3. Po publikovaní otvor adresu GitHub Pages v Safari na iPhone. Neotváraj len náhľad súboru na github.com.
+4. Počkaj na hlášku „Pripravené na offline používanie“.
+5. Safari → Zdieľať → Pridať na plochu. Názov: Lakovanie. Ikona používa tvoje logo.
+6. Otvor appku z plochy prvýkrát s internetom. Po zobrazení hlášky o pripravenosti bude fungovať aj bez internetu.
+
+Android: otvor v Chrome, počkaj na pripravenosť a v ponuke vyber Inštalovať aplikáciu alebo Pridať na plochu.
+
+RECEPTÚRY
+Receptúry → + Pridať. Každý výrobok môže mať vlastný názov, typ tužidla, typ riedidla, percentá a základ na výpočet riedidla. Existujúce receptúry môžeš upravovať aj odstrániť. Počet nie je v appke obmedzený.
+Pomery sú hmotnostné. Nezadávaj objemové pomery ako hmotnostné bez prepočtu.
+
+DÁTA
+Receptúry sa ukladajú lokálne na konkrétnom zariadení a v prehliadači/appke. Na nový GitHub odkaz sa receptúry z predchádzajúceho odkazu automaticky neprenesú. Vymazanie dát webu môže zmazať aj receptúry a offline súbory.
+
+AKTUALIZÁCIE
+Pri ďalšej zmene súborov zvýš verziu CACHE vo sw.js (v2 na v3 atď.). Potom otvor appku s internetom a po aktualizácii ju znovu otvor.
